@@ -1,6 +1,6 @@
 ## Process this file with automake to produce Makefile.in
 
-SUBDIRS = generation stats clustering community util misc centrality correlations
+SUBDIRS = generation stats clustering community util misc centrality correlations contagion
 
 AM_CPPFLAGS =\
     -I$(srcdir)/.. \

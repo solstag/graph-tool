@@ -48,6 +48,10 @@ graph_tool_community_PYTHON = \
     community/__init__.py
 graph_tool_communitydir = $(MOD_DIR)/community
 
+graph_tool_contagion_PYTHON = \
+    contagion/__init__.py
+graph_tool_contagiondir = $(MOD_DIR)/contagion
+
 graph_tool_draw_PYTHON = \
     draw/__init__.py
 graph_tool_drawdir = $(MOD_DIR)/draw

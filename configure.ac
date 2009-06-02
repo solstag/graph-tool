@@ -291,6 +291,7 @@ src/graph/clustering/Makefile
 src/graph/community/Makefile
 src/graph/util/Makefile
 src/graph/misc/Makefile
+src/graph/contagion/Makefile
 src/graph_tool/Makefile
 ])
 
